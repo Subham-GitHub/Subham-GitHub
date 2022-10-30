@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Subham Vishwakarma
+- 👋 Hi, I’m Subham Vishwakarma,
 - 👀 I’m interested in Data Analytics and efficient in analysing data using excel, SQL, Power BI and python.
 - 🌱 I’m currently learning Data Science skill like Machine learning and deep learning to advance my knowledge and contribute as much as possible to help the others.   
 - 💞️ I’m looking to collaborate with data analytics and data science community.
